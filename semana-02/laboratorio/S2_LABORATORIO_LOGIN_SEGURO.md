@@ -4,16 +4,17 @@
 
 ---
 
-**Nombre del estudiante:** _______________________________________________
+**Nombre del estudiante:** 
+Arian Alexey Ricardo Tito Paredes 
 
 **Grupo / Sección:** _____________________________________________________
 
-**Fecha de entrega:** ____________________________________________________
+**Fecha de entrega:** 15
 
 ---
 
 ## INFORMACIÓN DEL LABORATORIO
-
+A
 | Campo | Detalle |
 |---|---|
 | **Duración estimada** | 90-120 minutos |
